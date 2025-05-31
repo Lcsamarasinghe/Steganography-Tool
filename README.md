@@ -2,10 +2,6 @@
 
 A simple and elegant web-based steganography tool that allows you to **hide and reveal secret messages inside images** using password protection. Built with HTML, CSS, and JavaScript.
 
-![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/450233c7a5c8132e6df3633ce7657911d11231b6/S1.PNG)
-
-
-![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/450233c7a5c8132e6df3633ce7657911d11231b6/S1.PNG)
 
 ---
 
@@ -31,10 +27,16 @@ A simple and elegant web-based steganography tool that allows you to **hide and 
 4. Click **"Hide Message & Download Image"**.
 5. The tool embeds the message in the image and downloads it to your device.
 
+   
+![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/450233c7a5c8132e6df3633ce7657911d11231b6/S1.PNG)
+
+
 ### 🔍 Reveal Message
 1. Upload the image with the hidden message.
 2. Enter the password used when hiding the message.
 3. Click **"Reveal Hidden Message"** to display the secret.
+
+![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/83d8502cd8dc55ff63e94f44734d3aa114d91a88/S2.PNG)
 
 ---
 
