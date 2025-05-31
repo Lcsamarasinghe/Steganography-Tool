@@ -2,7 +2,10 @@
 
 A simple and elegant web-based steganography tool that allows you to **hide and reveal secret messages inside images** using password protection. Built with HTML, CSS, and JavaScript.
 
-![Screenshot](https://via.placeholder.com/800x400?text=Steganography+Tool+Screenshot)
+![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/450233c7a5c8132e6df3633ce7657911d11231b6/S1.PNG)
+
+
+![Screenshot](https://github.com/Lcsamarasinghe/Steganography-Tool/blob/450233c7a5c8132e6df3633ce7657911d11231b6/S1.PNG)
 
 ---
 
